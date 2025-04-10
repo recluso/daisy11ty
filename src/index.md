@@ -7,6 +7,10 @@ layout: layouts/default.njk
 ## Markdown heading 2
 
 ### Markdown heading 3
+
+<button class="btn btn-primary">One</button>
+<button class="btn btn-secondary">Two</button>
+<button class="btn btn-accent btn-outline">Three</button>
 <input type="checkbox" value="synthwave" class="toggle theme-controller" />
 <div class="not-prose">
   <button class="btn">daisyUI Button</button>
